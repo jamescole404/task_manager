@@ -1,4 +1,24 @@
 '''
+1. build the database
+	- need all info that will be shown
+2. create classes
+	- data minipulation
+3. pull info from database
+	- using classes, pull info 
+4. build the frontend, terminal
+	- somehow clear screen
+	- show info in grid/spreadsheet
+	- add/remove/update using keyboard commands
+5. build the frontend, GUI
+	- create window
+	- show info in spreadsheet
+	- add/remove/update using buttons and other windows. 
+
+
+
+'''
+
+'''
 what will this program do?
 - track tasks inside the vlab.
 - These tasks will be assigned to one or more people. 
