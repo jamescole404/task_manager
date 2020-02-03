@@ -1,10 +1,12 @@
 '''
 1. build the database
 	- need all info that will be shown
+		- database has been built
 2. create classes
 	- data minipulation
-3. pull info from database
-	- using classes, pull info 
+3. insert/update/remove 
+	- build methods
+		- most of these have been built, execpt the remove
 4. build the frontend, terminal
 	- somehow clear screen
 	- show info in grid/spreadsheet
@@ -13,7 +15,11 @@
 	- create window
 	- show info in spreadsheet
 	- add/remove/update using buttons and other windows. 
+6. set up the dates for the database
+	- I need to learn how to set dates for the db
 
+
+ABOVE HAS BEEN UPDATED. 
 
 
 '''
