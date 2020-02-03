@@ -1,5 +1,6 @@
 #This is just a starting idea for a class object that will hold information 
 #of each task.
+I have a new setup. 
 class Task_Tracker(self, createdate, titleofproject, startdate, enddate):
 	createdate = 0 # int
 	titleofproject = '' # str
