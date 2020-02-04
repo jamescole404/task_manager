@@ -5,11 +5,11 @@ import sqlite3
 class Taskdb(self):
 	database = 'taskmanager.db'
 	# get all of the variables.
-	def __init__(self, createdate, titleofproject, startdate, enddate):  # change this before running.
-		self.createdate = createdate
-		self.titleofproject = titleofproject
-		self.startdate = startdate
-		self.enddate = enddate
+	def __init__(self):  # change this before running.
+		self.createdate = 0
+		self.titleofproject = ''
+		#self.startdate = 0
+		self.enddate = 0
         
 	
      	def insert_crew(first, last, desc):
