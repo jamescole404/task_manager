@@ -1,0 +1,8 @@
+Ok, so right now the website idea is not working out well.
+  -the username setup is not responding right. 
+  -if the username is not responding then blocking people from changing stuff will not work
+  -figure it out!!!
+I do want to set up the program part of the task_manager as well. That might be a better way to do it
+  -the program side will have two parts
+    -1 a terminal user interface that will do everything the website will do
+    -2 a GUI that will work in the Raspi GUI.
